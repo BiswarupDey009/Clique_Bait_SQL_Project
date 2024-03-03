@@ -1,29 +1,29 @@
-**Digital Marketing Case Study-Clique Bait**
+# Digital Marketing Case Study-Clique Bait
 
-"#Introduction:"
+## Introduction:
 Clique Bait, founded by Danny, is an innovative online seafood store aiming to provide a seamless and enjoyable experience for seafood enthusiasts. As the founder and CEO, Danny recognizes the importance of leveraging data analysis to gain insights into the digital engagement, user behaviour, and overall performance of Clique Bait. This case study focuses on harnessing the power of data to analyse the dataset and devise innovative solutions, with a particular emphasis on calculating funnel fallout rates for the online store.
 
-Objective:
+## Objective:
 The primary objective of this analysis is to understand the dynamics of user interactions on the Clique Bait platform, from initial website visits to product views and ultimately, purchases. By examining various aspects of the dataset, the goal is to identify opportunities for optimization, enhance the user experience, maximize conversion rates and focus on highlighting potential areas for improvement and strategic decision-making.
 
 
-Tables used:
+## Tables used:
 
 Five tables used in this case study.
 
-•	Users: Customers(user_id) who visit the Clique Bait website are tagged via their cookie_id.
-•	Events: Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
-•	Page Hierarchy: This table lists all of the pages on the Clique Bait website which are tagged and have data passing through from user interaction events.
-•	Event Identifier: The event_identifier table shows the types of events which are captured by Clique Bait’s digital data systems.
-•	Campaign Identifier: This table shows information for the 3 campaigns that Clique Bait has ran on their website so far.
+-	Users: Customers(user_id) who visit the Clique Bait website are tagged via their cookie_id.
+-	Events: Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
+-	Page Hierarchy: This table lists all of the pages on the Clique Bait website which are tagged and have data passing through from user interaction events.
+-	Event Identifier: The event_identifier table shows the types of events which are captured by Clique Bait’s digital data systems.
+-	Campaign Identifier: This table shows information for the 3 campaigns that Clique Bait has ran on their website so far.
 
 
 
-ER Diagram:
+## ER Diagram:
  ![CliqueBait_ERDiagram](https://github.com/BiswarupDey009/Clique_Bait_SQL_Project/assets/149142392/688625c7-d9b4-449b-9f16-dc69cd72d18f)
 
 
-Problem Statements:
+## Problem Statements:
 •	Your task is to determine the number of unique users who accessed the website.
 •	Your task is to calculate the average number of cookies all users have on the platform.
 •	Your role is to derive the unique number of visits by all users for each month.
