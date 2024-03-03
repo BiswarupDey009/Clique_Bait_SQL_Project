@@ -1,4 +1,4 @@
-**#Digital Marketing Case Study-Clique Bait**
+**Digital Marketing Case Study-Clique Bait**
 
 Introduction:
 Clique Bait, founded by Danny, is an innovative online seafood store aiming to provide a seamless and enjoyable experience for seafood enthusiasts. As the founder and CEO, Danny recognizes the importance of leveraging data analysis to gain insights into the digital engagement, user behaviour, and overall performance of Clique Bait. This case study focuses on harnessing the power of data to analyse the dataset and devise innovative solutions, with a particular emphasis on calculating funnel fallout rates for the online store.
@@ -6,9 +6,10 @@ Clique Bait, founded by Danny, is an innovative online seafood store aiming to p
 Objective:
 The primary objective of this analysis is to understand the dynamics of user interactions on the Clique Bait platform, from initial website visits to product views and ultimately, purchases. By examining various aspects of the dataset, the goal is to identify opportunities for optimization, enhance the user experience, maximize conversion rates and focus on highlighting potential areas for improvement and strategic decision-making.
 
+
 Tables used:
 
-Five tables used in this case study:
+Five tables used in this case study.
 
 •	Users: Customers(user_id) who visit the Clique Bait website are tagged via their cookie_id.
 •	Events: Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
@@ -19,7 +20,7 @@ Five tables used in this case study:
 
 
 ER Diagram:
- 
+ ![CliqueBait_ERDiagram](https://github.com/BiswarupDey009/Clique_Bait_SQL_Project/assets/149142392/688625c7-d9b4-449b-9f16-dc69cd72d18f)
 
 
 Problem Statements:
@@ -42,9 +43,4 @@ Problem Statements:
 •	Your task is to identify the number of users who have made a purchase and order them in descending order based on their order counts.
 •	Your task is to analyse the user behaviour in terms of visiting the pages and identifying the page that each user visits the most.
 
-Check out the Answers
-
-
-Conclusion:
-Through comprehensive data analysis and innovative solutions, this case study aims to empower Clique Bait with actionable insights. By focusing on funnel fallout rates and addressing key areas of improvement, the goal is to enhance the overall performance of the online seafood store, fostering growth, and delivering an exceptional experience for Clique Bait's customers.
 
