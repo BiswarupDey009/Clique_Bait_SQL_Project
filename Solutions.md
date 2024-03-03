@@ -1,4 +1,4 @@
-1) Your task, as a Data Analyst at Clique Bait, is to determine the number of unique users who accessed the website.
+1) Your task is to determine the number of unique users who accessed the website.
 
 <details>
 <summary>Click to expand the Answer!</summary>
