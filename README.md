@@ -43,4 +43,4 @@ Five tables used in this case study.
 17.	Your task is to identify the number of users who have made a purchase and order them in descending order based on their order counts.
 18.	Your task is to analyse the user behaviour in terms of visiting the pages and identifying the page that each user visits the most.
 
-### Check out the [*Answers*]https://github.com/BiswarupDey009/Clique_Bait_SQL_Project/blob/main/Solutions.md
+### Check out the [*Answers*](https://github.com/BiswarupDey009/Clique_Bait_SQL_Project/blob/main/Solutions.md)
