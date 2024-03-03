@@ -30,3 +30,24 @@ from cte ;
 |average_cookies_per_user | 
 |-------------------------|
 |4|
+
+3) Your role is to derive the unique number of visits by all users for each month?
+<details>
+<summary>Click to expand the Answer!</summary>
+  
+sql
+select month(event_time) Month,
+count(distinct visit_id) unique_visit_count
+from events
+where event_type=1
+group by Month;
+
+</details>
+
+|Month|unique_visit_count|
+|---------------|---------|
+|1	|876|
+|2	|1488|
+|3	|916|
+|4	|248|
+|5	|36|
