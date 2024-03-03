@@ -164,7 +164,7 @@ group by 1;
 ```
 </details>
 
-11) Your task is to identify the most viewed product, least viewed product on the website.
+11) Your task is to identify the most viewed and least viewed product on the website.
 <details>
 <summary>Click to expand the Answer!</summary>
  
