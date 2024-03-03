@@ -16,8 +16,8 @@ select count(distinct user_id) from users;
 2) Your task is to calculate the average number of cookies all users have on the platform?
 <details>
 <summary>Click to expand the Answer!</summary>
-```
-sql
+
+```sql
 with cte as(
 select user_id,count(cookie_id) as cc  from users
 group by user_id
@@ -34,8 +34,8 @@ from cte ;
 3) Your role is to derive the unique number of visits by all users for each month?
 <details>
 <summary>Click to expand the Answer!</summary>
-```  
-sql
+ 
+```sql
 select month(event_time) Month,
 count(distinct visit_id) unique_visit_count
 from events
@@ -57,8 +57,8 @@ group by Month;
 
 <details>
 <summary>Click to expand the Answer!</summary>
-```  
-sql
+ 
+```sql
 select ef.event_name,count(e.visit_id) event_count
 from events e inner join event_identifier ef 
 on e.event_type=ef.event_type
