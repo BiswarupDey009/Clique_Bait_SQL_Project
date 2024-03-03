@@ -3,9 +3,9 @@
 <details>
 <summary>Click to expand the Answer!</summary>
   
-sql
+```sql
 select count(distinct user_id) from users;
-
+```
 </details>
 
 
