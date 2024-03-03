@@ -34,7 +34,7 @@ Five tables used in this case study.
 8. What is the percentage of visits which have a purchase event?
 9.	Your task is to identify the product category that hosts the maximum number of products.
 10.	Your task is to analyse user behaviour concerning product views and purchases.
-11.	Your task is to identify the most viewed product, least viewed product on the website.
+11.	Your task is to identify the most viewed and least viewed product on the website.
 12.	Your task is to identify the number of page views each campaign generated.
 13.	Your task is to calculate the total number of unique visits for each campaign.
 14.	Your task is to calculate the number of events recorded on each day in the "events" table.
