@@ -1,6 +1,6 @@
 **Digital Marketing Case Study-Clique Bait**
 
-Introduction:
+"#Introduction:"
 Clique Bait, founded by Danny, is an innovative online seafood store aiming to provide a seamless and enjoyable experience for seafood enthusiasts. As the founder and CEO, Danny recognizes the importance of leveraging data analysis to gain insights into the digital engagement, user behaviour, and overall performance of Clique Bait. This case study focuses on harnessing the power of data to analyse the dataset and devise innovative solutions, with a particular emphasis on calculating funnel fallout rates for the online store.
 
 Objective:
