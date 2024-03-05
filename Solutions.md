@@ -91,6 +91,9 @@ select
 from cte;
 ```
 </details>
+| percentage_checkout_view_with_no_purchase |
+|---------------|
+| 15.5017 |
 
 6) You are entrusted with the task of identifying the top 3 pages on the platform that have garnered the most views.
 <details>
