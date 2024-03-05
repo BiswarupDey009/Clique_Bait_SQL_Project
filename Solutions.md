@@ -91,6 +91,7 @@ select
 from cte;
 ```
 </details>
+
 | percentage_checkout_view_with_no_purchase |
 |---------------|
 | 15.5017 |
@@ -110,6 +111,11 @@ order by count(*) desc limit 3;
 ```
 </details>
 
+|page_name|count(*)|
+|---------------|---------|
+|Crab |	1564 |
+| Oyster |1568 |
+| Russian Caviar | 1563 |
 
 7) Your task is to analyse the number of views and cart adds for each product category.
 <details>
