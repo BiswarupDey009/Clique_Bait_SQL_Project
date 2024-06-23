@@ -53,7 +53,7 @@ group by Month;
 |5	|36|
 
 
-4) Your role is to derive the unique number of visits by all users for each month.
+4) Your task is to calculate the number of events for each event type.
 
 <details>
 <summary>Click to expand the Answer!</summary>
